@@ -1,4 +1,5 @@
 ### Field layout Preparation
+Research_data <- read.csv("sample_data.csv")
 
 # 1. Update Entry numbers with "E-" prefix
 # Using paste0 to combine the character 'E-' with the numeric entry + 9400
