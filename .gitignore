@@ -1,9 +1,5 @@
 # Ignore raw field data and experimental designs
-*.csv
 *.xlsx
-*.xls
-
-# Ignore temporary R files
-.Rhistory
-.RData
-.Rproj.user/
+*.csv
+# BUT we want to keep the sample file, so add this line:
+!sample_data.csv
