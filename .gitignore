@@ -1,0 +1,9 @@
+# Ignore raw field data and experimental designs
+*.csv
+*.xlsx
+*.xls
+
+# Ignore temporary R files
+.Rhistory
+.RData
+.Rproj.user/
