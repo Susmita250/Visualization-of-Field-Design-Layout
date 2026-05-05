@@ -39,10 +39,9 @@ Research_data.csv: The provided sample dataset is a modified version of the orig
 
 LICENSE: MIT License (Open Research compliant).
 
-🖼️Visual Output
+Note on Data Privacy:
+The datasets currently uploaded are sample files designed to demonstrate the code's functionality. The full research results and raw datasets are currently unpublished and are excluded via .gitignore to protect intellectual property
 
-Below is the generated layout for the 14SATYN-HEAT nursery:
-<img width="942" height="477" alt="Field layout output" src="https://github.com/user-attachments/assets/afda7be0-e64d-454e-b5e8-7146e9e86915" />
 
 🔬Research Context
 
