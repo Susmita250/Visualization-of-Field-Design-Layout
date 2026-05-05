@@ -35,6 +35,8 @@ Field_layout_visualization.R: The primary R script containing data cleaning and 
 
 Field layout output.png: A high-resolution output of the generated field map.
 
+Research_data.csv: The provided sample dataset is a modified version of the original field observations, intended for demonstrating the script's visualization capabilities while maintaining data privacy.
+
 LICENSE: MIT License (Open Research compliant).
 
 🖼️Visual Output
